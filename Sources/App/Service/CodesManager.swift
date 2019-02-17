@@ -1,7 +1,7 @@
 import Vapor
 import HTTP
 
-fileprivate let UpdateInterval: Double = 1000000
+fileprivate let UpdateInterval: Double = 600
 
 class CodesManager {
     
